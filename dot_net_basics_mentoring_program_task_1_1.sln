@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dot_net_basics_mentoring_pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp_task1", "WindowsFormsApp_task1\WindowsFormsApp_task1.csproj", "{0E8A9080-AABD-4A33-8599-84E3EB9EB58D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{2B208F73-50A3-440A-A8D7-765A020B19AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "My_library", "My_library\My_library.csproj", "{7238F889-566E-4076-887D-8777CFF37D00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{0E8A9080-AABD-4A33-8599-84E3EB9EB58D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E8A9080-AABD-4A33-8599-84E3EB9EB58D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E8A9080-AABD-4A33-8599-84E3EB9EB58D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B208F73-50A3-440A-A8D7-765A020B19AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B208F73-50A3-440A-A8D7-765A020B19AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B208F73-50A3-440A-A8D7-765A020B19AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B208F73-50A3-440A-A8D7-765A020B19AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7238F889-566E-4076-887D-8777CFF37D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7238F889-566E-4076-887D-8777CFF37D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7238F889-566E-4076-887D-8777CFF37D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7238F889-566E-4076-887D-8777CFF37D00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
